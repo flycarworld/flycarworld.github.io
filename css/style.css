@@ -100,11 +100,11 @@ section.main {
   color: #d7ecff;
 }
 section.main .post {
-  margin-top: 200px;
+  margin-top: 0px;
 }
 @media (max-width: 33.9em) {
   section.main .post {
-    margin-top: 60px;
+    margin-top: 0px;
   }
 }
 section.main .post .post-header {
