@@ -484,7 +484,7 @@ nav a:hover {
   pointer-events: none;
 }
 footer.footer-content {
-  padding-top: 100px;
+  padding-top: 50px;
   width: 100%;
   min-height: 350px;
   background: #0f1516;
@@ -508,8 +508,8 @@ footer.footer-content a:active {
 }
 footer.footer-content h2 {
   font-family: "Orbitron", sans-serif;
-  padding-bottom: 30px;
-  font-size: 1.5em;
+  padding-bottom: 10px;
+  font-size: 2em;
 }
 footer.footer-content ul {
   list-style-type: none;
@@ -528,7 +528,7 @@ footer.footer-content .footer-about {
   }
 }
 footer.footer-content .footer-social-icons {
-  margin: 80px 0 50px 0;
+  margin: 30px 0 5px 0;
 }
 @media (max-width: 33.9em) {
   footer.footer-content .footer-social-icons {
