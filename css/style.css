@@ -60,7 +60,7 @@ a:hover {
   background: #62b4ff;
 }
 .push {
-  height: 150px;
+  height: 100px;
 }
 @media (max-width: 33.9em) {
   .push {
@@ -486,7 +486,7 @@ nav a:hover {
 footer.footer-content {
   padding-top: 50px;
   width: 100%;
-  min-height: 350px;
+  min-height: 300px;
   background: #0f1516;
   color: #d7ecff;
   border-top: 1px dotted #d7ecff;
@@ -528,7 +528,7 @@ footer.footer-content .footer-about {
   }
 }
 footer.footer-content .footer-social-icons {
-  margin: 30px 0 5px 0;
+  margin: 0 0 5px 0;
 }
 @media (max-width: 33.9em) {
   footer.footer-content .footer-social-icons {
@@ -549,7 +549,7 @@ footer.footer-content .footer-social-icons li a:active {
   border-bottom: 0;
 }
 footer.footer-content .footer-copyright {
-  margin: 0 0 40px 0;
+  margin: 45px 0 20px 0;
   font-size: 0.7em;
 }
 code {
